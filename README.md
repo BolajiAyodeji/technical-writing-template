@@ -6,7 +6,7 @@
 - Prerequisites
 - Steps...
 - Conclusion
-- Credits
+- Attributions
 ```
 
 ## Title
@@ -33,3 +33,19 @@ Here is an example from my previous article ([Image Optimization and Transformat
 ![image](https://user-images.githubusercontent.com/30334776/79635563-9afc5a00-8169-11ea-94ea-44cc25e51d9b.png)
 
 ## Prerequisites
+
+In this section, you are break your article into parts and list them out as bullets or checklists. This will allow you write in a more organized manner and allow your reader(s) to read in an organized manner. Ensure to link each prerequsite item to their respective heading in the article.
+
+Here is an example from my previous article ([Accessibility Auditing with Axe for automated Web UI testing](https://bolajiayodeji.com/accessibility-auditing-with-axe-for-automated-web-ui-testing-ck3tyrb4j01kt6qs180hpzaso)):
+
+- Introduction
+- What is Auditing?
+- Why Audit?
+- Introduction to Axe Library
+- Getting Started with Axe for Browsers
+- Getting Started with Axe for Android
+- Getting Started with Axe for CLI
+- Getting Started with Axe for React.js
+- Getting Started with Axe for Vue.js
+- Bonus: Linting with eslint-plugin-jsx-a11y
+- Conclusion
