@@ -1,7 +1,6 @@
 <div align="center">
-  
-## Outline
 
+```
 - Title
 - Introduction
 - Goals (Optional)
@@ -9,5 +8,6 @@
 - Steps...
 - Conclusion
 - Credits
+```
 
 </div>
