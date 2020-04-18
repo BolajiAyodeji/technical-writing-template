@@ -1,4 +1,4 @@
-<div align="center">
+## Outline
 
 ```
 - Title
@@ -9,5 +9,4 @@
 - Conclusion
 - Credits
 ```
-
-</div>
+## Template
