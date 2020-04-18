@@ -1,3 +1,5 @@
+<div align="center">
+  
 ## Outline
 
 - Title
@@ -7,3 +9,5 @@
 - Steps...
 - Conclusion
 - Credits
+
+</div>
