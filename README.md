@@ -30,14 +30,6 @@ This is the first section of your article that introduces your reader to your ar
 
 Here is an example from my previous article ([Image Optimization and Transformation with Cloudinary](https://bolajiayodeji.com/image-optimization-and-transformation-with-cloudinary-ck7ft0r9100p7nds1ja70s9mu)):
 
-```
-The web is now dominated with more visual content than ever hence the need to consider ways of delivering these images with the smallest possible file size while maintaining optimal visual quality.
-
-The less file size, the faster the browser can download and render the image, the optimal visual quality, the more satisfied your users will be.
-
-This, therefore, leads to better user experience, increased retention rate, conversion rate, and user satisfaction.
-
-There are many existing techniques and algorithms used to enhance and optimize images already. In this article, I'll introduce you to an amazing technique (based on my opinion and experience), which would help you better enhance and serve your media assets using a cloud-based image and video management platform.
-```
+![image](https://user-images.githubusercontent.com/30334776/79635563-9afc5a00-8169-11ea-94ea-44cc25e51d9b.png)
 
 ## Prerequisites
