@@ -38,14 +38,14 @@ In this section, you are break your article into parts and list them out as bull
 
 Here is an example from my previous article ([Accessibility Auditing with Axe for automated Web UI testing](https://bolajiayodeji.com/accessibility-auditing-with-axe-for-automated-web-ui-testing-ck3tyrb4j01kt6qs180hpzaso)):
 
-- Introduction
-- What is Auditing?
-- Why Audit?
-- Introduction to Axe Library
-- Getting Started with Axe for Browsers
-- Getting Started with Axe for Android
-- Getting Started with Axe for CLI
-- Getting Started with Axe for React.js
-- Getting Started with Axe for Vue.js
-- Bonus: Linting with eslint-plugin-jsx-a11y
-- Conclusion
+- **Introduction**
+- **What is Auditing?**
+- **Why Audit?**
+- **Introduction to Axe Library**
+- **Getting Started with Axe for Browsers**
+- **Getting Started with Axe for Android**
+- **Getting Started with Axe for CLI**
+- **Getting Started with Axe for React.js**
+- **Getting Started with Axe for Vue.js**
+- **Bonus: Linting with eslint-plugin-jsx-a11y**
+- **Conclusion**
