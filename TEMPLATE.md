@@ -220,12 +220,10 @@ If your App was bootstrapped with [Create-React-App](https://github.com/facebook
 
 The web can only become an accessible, inclusive space if developers are empowered to take responsibility for accessibility testing and accessible coding practices. ~ [Axe](https://www.deque.com/axe/)
 
+Integer egestas malesuada commodo. Maecenas euismod, purus id tincidunt euismod, eros ligula suscipit massa, ut elementum lectus enim et augue. Nullam nec turpis nisi. Sed pharetra in ante nec tempor. Quisque enim ipsum, ullamcorper at tellus quis, finibus placerat eros. Fusce gravida mauris orci.
+
 Check out the following checklists to manually determine how accessible your site is and what accessible sites entail:
 
 - [Checklist from The A11Y Project](https://a11yproject.com/checklist.html)
 - [WCAG checklist from Wuhcag](https://www.wuhcag.com/wcag-checklist/)
 - [WCAG checklist from WebAIM](https://webaim.org/standards/wcag/checklist)
-
-Want to build better Accessible JavaScript Applications with React and Gatsby? Check out this amazing course by [Marcy](https://twitter.com/marcysutton) on FrontendMasters.
-
-%[https://frontendmasters.com/courses/javascript-accessibility/]
