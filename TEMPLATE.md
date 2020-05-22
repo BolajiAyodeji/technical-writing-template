@@ -227,3 +227,9 @@ Check out the following checklists to manually determine how accessible your sit
 - [Checklist from The A11Y Project](https://a11yproject.com/checklist.html)
 - [WCAG checklist from Wuhcag](https://www.wuhcag.com/wcag-checklist/)
 - [WCAG checklist from WebAIM](https://webaim.org/standards/wcag/checklist)
+
+## Attributions
+
+- [Checklist from The A11Y Project](https://a11yproject.com/checklist.html)
+- [Hashnode's GraphQL API](https://api.hashnode.com/)
+- [Axe Library](https://github.com/dequelabs/axe-core)
