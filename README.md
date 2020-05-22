@@ -19,8 +19,8 @@ As the name implies, this is the title of your article which describes what your
 - (Optional) Include the tool(s) the reader will use to accomplish that goal.
 
 Here are some examples:
-- **Accessibility Auditing with Axe for automated Web UI testing**
-- **How to deploy a Node Application and Database to Heroku**
+- **Accessibility Auditing with Axe for Automated Web UI Testing**
+- **How to Deploy a Node Application and Database to Heroku**
 - **Handling Static Forms, The Client-side Way**
 - **Understanding Recursion in JavaScript**
 - **Getting Started with Nodejs - An Overview and Walkthrough Tutorial**
