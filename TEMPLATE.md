@@ -110,9 +110,9 @@ let config = {
 
 axe(React, ReactDOM, 1000, config);
 ```
-- Check the available Axe core configuration rules [here](https://github.com/dequelabs/axe-core/blob/master/doc/API.md#api-name-axeconfigure) and add based on your needs.
+### Check the available Axe core configuration rules [here](https://github.com/dequelabs/axe-core/blob/master/doc/API.md#api-name-axeconfigure) and add based on your needs.
 
-- The errors are logged with priority levels
+The errors are logged with priority levels
   - Minor
   - Moderate
   - Serious
@@ -151,7 +151,7 @@ if (process.env.NODE_ENV !== 'production') {
 }
 ```
 
-- Check the available Axe core configuration rules [here](https://github.com/dequelabs/axe-core/blob/master/doc/API.md#api-name-axeconfigure) and add based on your needs.
+### Check the available Axe core configuration rules [here](https://github.com/dequelabs/axe-core/blob/master/doc/API.md#api-name-axeconfigure) and add based on your needs.
 
 ## Bonus: Linting with [eslint-plugin-jsx-a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y)
 
@@ -177,7 +177,7 @@ npm install eslint-plugin-jsx-a11y --save-dev
 yarn add eslint-plugin-jsx-a11y --dev
 ```
 
-- Add `jsx-a11y` to your `.eslintrc` configuration file
+### Add `jsx-a11y` to your `.eslintrc` configuration file
 
 ```
 {
@@ -197,7 +197,7 @@ yarn add eslint-plugin-jsx-a11y --dev
 }
 ```
 
-- To check for more stricter rules
+### To check for stricter rules
 
 ```
 {
