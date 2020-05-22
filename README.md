@@ -6,6 +6,8 @@ A sample template for writing a technical article :unicorn:
 
 </div>
 
+---
+
 ## Title
 
 As the name implies, this is the title of your article which describes what your article entails. Ensure to use title case and the title covers:
