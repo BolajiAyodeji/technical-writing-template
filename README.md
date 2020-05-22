@@ -1,17 +1,14 @@
-## Outline
+<div align="center">
 
-```
-- Title
-- Introduction
-- Prerequisites
-- Headings
-- Conclusion
-- Attributions
-```
+# technical-writing-template
+
+A sample template for writing a technical article :unicorn:
+
+</div>
 
 ## Title
 
-As the name implies, this is the title of your article which describes what your article entails.
+As the name implies, this is the title of your article which describes what your article entails. Ensure to use title case and the title covers:
 
 - What will a reader accomplish after reading your article?
 - Include the goal of the article in the title.
