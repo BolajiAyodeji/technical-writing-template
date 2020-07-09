@@ -8,6 +8,22 @@ A sample template for writing a technical article :unicorn: <br />
 
 </div>
 
+## Template Headings
+
+```
+## Title
+
+## Introduction
+
+## Prerequisites
+
+## Headings
+
+## Conclusion
+
+## Attributions
+```
+
 ---
 
 ## Title
