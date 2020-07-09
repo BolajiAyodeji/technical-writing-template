@@ -47,7 +47,7 @@ This is the first section of your article that introduces your reader to your ar
 
 Here is an example from my previous article ([Image Optimization and Transformation with Cloudinary](https://bolajiayodeji.com/image-optimization-and-transformation-with-cloudinary-ck7ft0r9100p7nds1ja70s9mu)):
 
-![image](https://user-images.githubusercontent.com/30334776/79635563-9afc5a00-8169-11ea-94ea-44cc25e51d9b.png)
+![image](https://cdn.hashnode.com/res/hashnode/image/upload/v1594273339648/GkwWosBXD.png)
 
 ## Prerequisites
 
@@ -55,7 +55,7 @@ In this section, you are to list out all the things your reader should do or hav
 
 Here is an example from my previous article ([Building a SlackBot with Node.js and SlackBots.js](https://bolajiayodeji.com/building-a-slackbot-with-nodejs-and-slackbotsjs-cjz8gh7zg000exfs1tq2z5zzu)):
 
-![image](https://user-images.githubusercontent.com/30334776/79639679-13bcdf80-8185-11ea-95d6-19cd1864489a.png)
+![image](https://cdn.hashnode.com/res/hashnode/image/upload/v1594273422988/n0yAmj9HL.png)
 
 ## Headings
 
@@ -79,10 +79,14 @@ Here is an example from my previous article ([Accessibility Auditing with Axe fo
 
 Here you should summarize your article just as similar to the introduction with a final closing note and maybe links for further research or study.
 
+Here is an example from my previous article ([How to Ask Effective Questions: A Practical Guide for Developers](https://bolajiayodeji.com/how-to-ask-effective-questions-a-practical-guide-for-developers-ckaezf8w004ewc5s1gnkd5puf)):
+
+![image](https://cdn.hashnode.com/res/hashnode/image/upload/v1594273741311/IhgIf4WJL.png)
+
 ## Attributions
 
 Here ensure you add credits to resources, extracts, quotes, images or any other content of which you are not the creator.
 
 Here is an example from my previous article ([Getting Started with Hugo and Deploying to Netlify](https://bolajiayodeji.com/getting-started-with-hugo-and-deploying-to-netlify-cjyaj1be3000hvjs1z2ipvmuw)):
 
-![image](https://user-images.githubusercontent.com/30334776/79640579-3a314980-818a-11ea-85c2-620da7e05073.png)
+![image](https://cdn.hashnode.com/res/hashnode/image/upload/v1594273823629/AgtTzjyCB.png)
