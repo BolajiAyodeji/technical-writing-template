@@ -53,7 +53,7 @@ Here is an example from my previous article ([Image Optimization and Transformat
 
 In this section, you are to list out all the things your reader should do or have before reading your article as bullets or checklists. This is always useful to ensure your reader(s) can follow along without missing out at any section of the article. Please note that this should not be only practised with articles that entail some installation setup but any kind of article. It can just be as minimal as asking your reader(s) to grab cold water before reading the article. A great way to get them ready, yeah?
 
-Here is an example from my previous article ([Building a SlackBot with Node.js and SlackBots.js](https://bolajiayodeji.com/building-a-slackbot-with-nodejs-and-slackbotsjs-cjz8gh7zg000exfs1tq2z5zzu)):
+Here is an example from my previous article ([Building a SlackBot with Node.js and SlackBots.js](https://blog.bolajiayodeji.com/building-a-slackbot-with-nodejs-and-slackbotsjs)):
 
 ![image](https://cdn.hashnode.com/res/hashnode/image/upload/v1594273422988/n0yAmj9HL.png)
 
@@ -61,7 +61,7 @@ Here is an example from my previous article ([Building a SlackBot with Node.js a
 
 In this section, you are to break your article into parts and list them out as headings. This will allow you to write in a more organized manner and enable your reader(s) to read in an orderly manner. Ensure to make these headings an `<h2> element`.
 
-Here is an example from my previous article ([Accessibility Auditing with Axe for automated Web UI testing](https://bolajiayodeji.com/accessibility-auditing-with-axe-for-automated-web-ui-testing-ck3tyrb4j01kt6qs180hpzaso)):
+Here is an example from my previous article ([Accessibility Auditing with Axe for automated Web UI testing](https://blog.bolajiayodeji.com/accessibility-auditing-with-axe-for-automated-web-ui-testing)):
 
 - **Introduction**
 - **What is Auditing?**
@@ -79,7 +79,7 @@ Here is an example from my previous article ([Accessibility Auditing with Axe fo
 
 Here you should summarize your article just as similar to the introduction with a final closing note and maybe links for further research or study.
 
-Here is an example from my previous article ([How to Ask Effective Questions: A Practical Guide for Developers](https://bolajiayodeji.com/how-to-ask-effective-questions-a-practical-guide-for-developers-ckaezf8w004ewc5s1gnkd5puf)):
+Here is an example from my previous article ([How to Ask Effective Questions: A Practical Guide for Developers](https://blog.bolajiayodeji.com/how-to-ask-effective-questions-a-practical-guide-for-developers)):
 
 ![image](https://cdn.hashnode.com/res/hashnode/image/upload/v1594273741311/IhgIf4WJL.png)
 
@@ -87,6 +87,6 @@ Here is an example from my previous article ([How to Ask Effective Questions: A 
 
 Here ensure you add credits to resources, extracts, quotes, images or any other content of which you are not the creator.
 
-Here is an example from my previous article ([Getting Started with Hugo and Deploying to Netlify](https://bolajiayodeji.com/getting-started-with-hugo-and-deploying-to-netlify-cjyaj1be3000hvjs1z2ipvmuw)):
+Here is an example from my previous article ([Getting Started with Hugo and Deploying to Netlify](https://blog.bolajiayodeji.com/getting-started-with-hugo-and-deploying-to-netlify)):
 
 ![image](https://cdn.hashnode.com/res/hashnode/image/upload/v1594273823629/AgtTzjyCB.png)
