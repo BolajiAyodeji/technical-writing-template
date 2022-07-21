@@ -55,7 +55,7 @@ In this section, you are to list out all the things your reader should do or hav
 
 Here is an example from my previous article ([Building a SlackBot with Node.js and SlackBots.js](https://blog.bolajiayodeji.com/building-a-slackbot-with-nodejs-and-slackbotsjs)):
 
-![image](https://cdn.hashnode.com/res/hashnode/image/upload/v1594273422988/n0yAmj9HL.png)
+![image](https://cdn.hashnode.com/res/hashnode/image/upload/v1658409517576/53LUm_59i.png)
 
 ## Headings
 
