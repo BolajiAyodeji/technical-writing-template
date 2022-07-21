@@ -45,7 +45,7 @@ Here are some examples:
 
 This is the first section of your article that introduces your reader to your article and the goals they will accomplish after reading. This section ought to motivate the reader, summarize; what the article is about, why the reader should read, and what the reader will learn/ do in the article. Ensure to make this one to three paragraphs long.
 
-Here is an example from my previous article ([Image Optimization and Transformation with Cloudinary](https://bolajiayodeji.com/image-optimization-and-transformation-with-cloudinary-ck7ft0r9100p7nds1ja70s9mu)):
+Here is an example from my previous article ([Image Optimization and Transformation with Cloudinary](https://blog.bolajiayodeji.com/image-optimization-and-transformation-with-cloudinary)):
 
 ![image](https://cdn.hashnode.com/res/hashnode/image/upload/v1594273339648/GkwWosBXD.png)
 
